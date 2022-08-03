@@ -1,0 +1,25 @@
+#block {
+ background-color: #ADD8E6 ; 
+ box-sizing: border-box; 
+ width: 93.5%; 
+}
+.sert {
+  box-sizing: border-box;
+  float: left;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-bottom: 50px;
+  margin-right: auto;
+  display: inline-block;
+  float: left;
+  width: 33.33%;
+  
+  }
+
+.lw {
+    font-size: 60px;
+}
+
+.main {
+  margin-left: 15px;
+}
